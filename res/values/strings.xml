@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GhostHunterV3</string>
+    <string name="ghost_hunter">Ghost Hunter</string>
+    <string name="action_settings">Settings</string>
+    <string name="this_is_a_test">This game was made for UVA CS2110 Fall 2014
+        by Jing, Torry, Andrea, and ZiYan. The menu music is a remixed version of Lavender Town
+        from Pokemon. The in-game music is Guitar vs. Piano 1.2 from Newgrounds.</string>
+    <string name="play">Play</string>
+    <string name="load">Load</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="menu">Menu</string>
+    <string name="instructions">Instructions</string>
+    <string name="instructions_text"> To move your character around, touch or slide your finger
+        around the screen. The kill the ghosts, simply run into them with your character. Ghosts 
+        will drop coins when killed and these coins allow bombs to spawn. Picking up a bomb will
+        instantly kill all ghosts on screen. Enjoy the game!!</string>
+
+</resources>
